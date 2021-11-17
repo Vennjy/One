@@ -4,6 +4,7 @@ import os
 '''Hello! This is a simple script i wrote that makes and deletes organisms. I worked on this for one and a half day,
    and I finished at November 15 2019. How are you future Vennjy :).'''
 
+# changed
 
 class Organism:
     population = []
